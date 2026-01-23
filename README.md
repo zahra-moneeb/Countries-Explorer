@@ -11,6 +11,7 @@
 3. Filter countries by region: https://restcountries.com/v3.1/region/{region}
 
 ![Filter by Region](filter.PNG)
+![Search Country](search.PNG)
 
 
 
