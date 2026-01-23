@@ -10,6 +10,8 @@
 2. Search country by name:https://restcountries.com/v3.1/name/{name}
 3. Filter countries by region: https://restcountries.com/v3.1/region/{region}
 
+![Filter by Region](filter.PNG)
+
 
 
 
